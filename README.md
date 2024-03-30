@@ -1,5 +1,5 @@
 Description
- Write a program to implement Insertion sort where
+ Write a program to implement Merge sort where
 
 Ask the user to input the number of elements to insert in the array.
 Create an array accordingly and insert the array values.
